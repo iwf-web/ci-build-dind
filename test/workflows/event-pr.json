@@ -1,0 +1,10 @@
+{
+    "pull_request": {
+        "head": {
+            "ref": "other-user/ci-build-dind"
+        },
+        "base": {
+            "ref": "iwf-web/ci-build-dind"
+        }
+    }
+}
